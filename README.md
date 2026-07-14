@@ -91,3 +91,16 @@ This implementation is the corrected standalone version of the projection
 module used by
 [`TopologicalKnotIndexer/cpp_knot_indexer`](https://github.com/TopologicalKnotIndexer/cpp_knot_indexer).
 The original project license is retained in [LICENSE](LICENSE).
+
+## Citation
+
+If you use this repository in academic work, please cite it as:
+
+```bibtex
+@software{topologicalknotindexer_link_pd_code,
+  author = {{TopologicalKnotIndexer contributors}},
+  title = {{link-pd-code}},
+  year = {2026},
+  url = {https://github.com/TopologicalKnotIndexer/link-pd-code}
+}
+```
